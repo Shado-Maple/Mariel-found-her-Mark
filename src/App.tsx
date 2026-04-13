@@ -648,7 +648,7 @@ const CoverSection = () => (
                 'Mr. Edwin P. Monterey',
                 'Mr. Emmanuel P. Principe',
                 'Mr. Crisanto F. Melecia',
-                'Mrs. Rebie A. Marciano',
+                'Ms. Rebie A. Marciano',
                 'Mrs. Glenda P. Puertollano',
                 'Mrs. Thelma P. Magpantay',
                 'Mrs. Sheila M. Rioflorido',
@@ -731,7 +731,7 @@ const CoverSection = () => (
       <div className="mt-6">
         <p className="font-serif text-lg text-[#1a2a44] font-bold mb-3">Bridesmaids</p>
         <div className="flex flex-wrap gap-2">
-          {['Ms. Micah Ella P. Perin', 'Ms. Mae Princess R. Belarmino', 'Ms. Maridel P. Perin', 'Ms. Janine Trisha P. So', 'Ms. Nicole A. Picalde', 'Ms. Razel C. Perin'].map((name, i) => (
+          {['Ms. Micah Ella P. Perin', 'Ms. Mae Princess R. Belarmino', 'Ms. Maridel P. Perin', 'Ms. Janine Trisha P. So', 'Ms. Nicole A. Recalde', 'Ms. Razel C. Perin'].map((name, i) => (
             <span key={i} className="font-body text-sm text-[#1a2a44] bg-[#1a2a44]/5 rounded-full px-3 py-1">{name}</span>
           ))}
         </div>
